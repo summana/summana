@@ -1,16 +1,13 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
 
-<!--
-**summana/summana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<body>
+    <div class="container">
+        <h1>Welcome to My AI Journey 🤖</h1>
+        <p>Hello! I'm an <span class="highlight">AI enthusiast</span> with a passion for exploring the fascinating world of artificial intelligence. From machine learning algorithms to neural networks, I'm constantly learning and experimenting with the latest advancements in AI. 🚀</p>
+        <p>Whether it's developing intelligent systems, analyzing data patterns, or simply brainstorming new ideas, I'm always excited to dive into the next AI challenge. 💡</p>
+        <p>Let's connect and explore the future of AI together! 🌐</p>
+    </div>
+</body>
+</html>
