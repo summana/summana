@@ -29,10 +29,8 @@
       padding: 3rem 2.5rem;
       border-radius: 4px;
       box-shadow: 0 12px 28px rgba(0, 0, 0, 0.04), 0 0 0 1px rgba(0, 0, 0, 0.02);
-      transition: all 0.2s ease;
     }
 
-    /* novel style — like a book page */
     .prologue {
       font-size: 0.75rem;
       letter-spacing: 3px;
@@ -83,13 +81,6 @@
       font-size: 0.85rem;
       color: #a77c5e;
       text-align: right;
-      letter-spacing: 0.3px;
-    }
-
-    .signature strong {
-      font-family: monospace;
-      color: #6b4c37;
-      font-weight: normal;
     }
 
     hr {
@@ -109,11 +100,6 @@
       .opening-line {
         font-size: 1.3rem;
       }
-    }
-
-    /* optional subtle glow on hover – just for fun */
-    .novel-card:hover {
-      box-shadow: 0 20px 32px rgba(0, 0, 0, 0.05), 0 0 0 1px rgba(0, 0, 0, 0.03);
     }
   </style>
 </head>
