@@ -1,6 +1,6 @@
 <div align="center">
 
-# summana
+# Summana
 
 <p align="center">
   <i>She found the pattern before anyone else.</i>
@@ -37,6 +37,6 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="50" />
+
 
 </div>
