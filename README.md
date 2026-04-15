@@ -1,146 +1,42 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>summana · AI storyteller</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+<div align="center">
 
-    body {
-      background: #fefaf5;
-      font-family: 'Georgia', 'Times New Roman', Times, serif;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-      padding: 2rem;
-      color: #1e1b1a;
-    }
+# summana
 
-    .novel-card {
-      max-width: 720px;
-      margin: 0 auto;
-      background: #fffdf9;
-      padding: 3rem 2.5rem;
-      border-radius: 4px;
-      box-shadow: 0 12px 28px rgba(0, 0, 0, 0.04), 0 0 0 1px rgba(0, 0, 0, 0.02);
-    }
+<p align="center">
+  <i>She found the pattern before anyone else.</i>
+</p>
 
-    .prologue {
-      font-size: 0.75rem;
-      letter-spacing: 3px;
-      text-transform: uppercase;
-      color: #b87b5a;
-      margin-bottom: 2rem;
-      font-family: monospace;
-    }
+---
 
-    .opening-line {
-      font-size: 1.5rem;
-      line-height: 1.4;
-      font-weight: normal;
-      margin-bottom: 1.8rem;
-      color: #2c241f;
-    }
+<p align="center">
+  Not in code — in the quiet space between data points, where most people only saw noise.<br>
+  That's where the story lived.
+</p>
 
-    .opening-line:first-letter {
-      font-size: 3.2rem;
-      font-weight: 400;
-      float: left;
-      line-height: 0.85;
-      margin-right: 0.5rem;
-      color: #c28a6b;
-      font-family: 'Times New Roman', serif;
-    }
+<p align="center">
+  So she started listening. Not to answers, but to questions.<br>
+  To the way a neural network stumbles before it learns.<br>
+  To the strange poetry of a loss curve falling.
+</p>
 
-    p {
-      font-size: 1.1rem;
-      line-height: 1.65;
-      margin-bottom: 1.4rem;
-      color: #2c241f;
-    }
+<p align="center">
+  Now she builds things that almost think. Not because the machine is alive,<br>
+  but because she taught it to dream in probabilities.
+</p>
 
-    .quiet-space {
-      font-style: italic;
-      border-left: 3px solid #e7d9cf;
-      padding-left: 1.2rem;
-      margin: 1.8rem 0;
-      color: #5e4b3c;
-    }
+---
 
-    .signature {
-      margin-top: 2.5rem;
-      padding-top: 1rem;
-      border-top: 1px dashed #e2d4ca;
-      font-family: monospace;
-      font-size: 0.85rem;
-      color: #a77c5e;
-      text-align: right;
-    }
+### ⏳ Status Report
+**She is still learning.** **The models are still training.** **And the best chapter hasn't been written yet.**
 
-    hr {
-      border: none;
-      height: 1px;
-      background: linear-gradient(to right, #eedbcb, transparent);
-      margin: 1.5rem 0;
-    }
+---
 
-    @media (max-width: 550px) {
-      .novel-card {
-        padding: 2rem 1.5rem;
-      }
-      p {
-        font-size: 1rem;
-      }
-      .opening-line {
-        font-size: 1.3rem;
-      }
-    }
-  </style>
-</head>
-<body>
-  <div class="novel-card">
-    <div class="prologue">───  a fragment  ───</div>
+<p align="center">
+  <i>— an AI enthusiast, one experiment at a time</i>
+</p>
 
-    <div class="opening-line">
-      She found the pattern before anyone else.
-    </div>
+<br>
 
-    <p>
-      Not in code — in the quiet space between data points, where most people only saw noise. 
-      That's where the story lived.
-    </p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="50" />
 
-    <p>
-      So she started listening. Not to answers, but to questions. To the way a neural network stumbles 
-      before it learns. To the strange poetry of a loss curve falling.
-    </p>
-
-    <p>
-      Now she builds things that almost think. Not because the machine is alive, 
-      but because she taught it to dream in probabilities.
-    </p>
-
-    <div class="quiet-space">
-      “She is still learning.<br>
-      The models are still training.<br>
-      And the best chapter hasn't been written yet.”
-    </div>
-
-    <hr />
-
-    <p style="margin-bottom: 0.5rem;">
-      — an AI enthusiast, one experiment at a time
-    </p>
-
-    <div class="signature">
-      <strong>summana</strong>  ·  wanderer between zeros and ones
-    </div>
-  </div>
-</body>
-</html>
+</div>
